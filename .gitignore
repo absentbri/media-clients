@@ -69,3 +69,8 @@ typings/
 
 # next.js build output
 .next
+
+# editors
+.vscode
+.idea
+.iml
